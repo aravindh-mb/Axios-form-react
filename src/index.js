@@ -12,8 +12,7 @@ import Form from './axios-with-react/form-component'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <App /> */}
-    {/* <Movie/> */}
+<Form />
     <Form/>
   </React.StrictMode>
 );

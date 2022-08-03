@@ -1,0 +1,10 @@
+.navbar-brand{
+    margin:10px 20px;
+     &:before{
+         content:"🎉 "
+    }
+}
+form{
+    margin:auto;
+    width:400px auto;
+}
